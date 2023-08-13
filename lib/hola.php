@@ -1,5 +1,5 @@
 <?php
-// Autor: Kalasni <kalassni@gmail.com>
+
 require('HolaMundo.php');
 
 print "Introduce tu nombre:";
